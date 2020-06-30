@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: springbootcrud_practice_api
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ankur.yadav
+Implementation-Vendor-Id: com.byju.springbootcrud
+Build-Jdk: 1.8.0_191
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/springbootcrud_practice_api
+Created-By: Maven Integration for Eclipse
+Main-Class: com.byju.springbootcrud.springbootcrud_practice_api
+
